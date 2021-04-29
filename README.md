@@ -1,0 +1,2 @@
+# lineBotApiImageAttachment
+LINEApiでイメージを送付する
